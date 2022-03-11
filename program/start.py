@@ -70,43 +70,44 @@ async def start_(c: Client, message: Message):
     await message.reply_photo(BG_IMG)
     await message.reply_text(
         f"""👋 **Welcome {message.from_user.mention()} !**\n
-🤖 [{me_bot.first_name}](https://t.me/{BOT_USERNAME}) **Allows you to play music🎶 and video🎥 on groups through the Telegram Group video chat!**\n
-📕 **Find out all the Bot's commands and how they work by clicking on the » 🛠️ Check Commands button!**\n
-🔖 **To know how to use this bot, please click on the » 📕 Read Basic Guide button!**\n
-👽 **To Deploy Your Own Source Click On The » 👉 My Source Code Button **\n """,
+Avunu aithy yenti... nenu vere ammai tho chat chesedi thappu ainappudu... mari nuvu chesthundi yenti.... nuvu vere boys tho chat cheyakunda undalsindi kadha ......
+
+nenu cheste thappu ... nuvu cheste oppu na... ah ah ah ahhhhA yandhukala 😂😂
+
+I put my Lover ID in the  below button.! Ask her 😂😂 **\n """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "➕ Add me to your Group ➕",
-                        url=f"https://t.me/{BOT_USERNAME}?startgroup=true",
+                        "𝐆𝐚𝐲𝐚𝐩𝐚𝐝𝐢𝐧𝐚 𝐌𝐚𝐧𝐮𝐬𝐮🥺",
+                        url=f"https://t.me/mynameisgroot?startgroup=true",
                     )
                 ],
-                [InlineKeyboardButton("📕 Basic Guide", callback_data="user_guide")],
+                [InlineKeyboardButton("𝐀𝐥𝐨𝐧𝐞 𝐁𝐨𝐲 🥺", callback_data="https://t.me/rjbr0)],
                 [
-                    InlineKeyboardButton("🛠️ Commands", callback_data="command_list"),
-                    InlineKeyboardButton("💲 Donate", url=f"https://t.me/{OWNER_USERNAME}"),
+                    InlineKeyboardButton("𝐆𝐅 𝐥𝐞𝐧𝐢 𝐀𝐧𝐚𝐝𝐡𝐚🥺", callback_data="https://t.me/elsa_network"),
+                    InlineKeyboardButton("𝐈 𝐰𝐚𝐧𝐭 𝐭𝐞𝐧 𝐆𝐟𝐬🥺", url=f"https://t.me/rjbr0"),
                 ],
                 [
                     InlineKeyboardButton(
-                        "👨🏾‍🤝‍👨🏼 Official Group", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "𝐆𝐢𝐫𝐥 𝐅𝐫𝐢𝐞𝐧𝐝 1", url=f"https://t.me/TeluguLittleWorld"
                     ),
                     InlineKeyboardButton(
-                        "🔗 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "𝐆𝐢𝐫𝐥 𝐅𝐫𝐢𝐞𝐧𝐝 2", url=f"https://t.me/elsa_network"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
-                        "👉 My Source Code", url="https://github.com/SRTheProgrammer/SuraVCStream"
+                        "𝐆𝐢𝐫𝐥 𝐅𝐫𝐢𝐞𝐧𝐝 3", url="https://t.me/rjbr0"
                     )
                 ],
                 [    InlineKeyboardButton(
-                    "❗️⚠️Youtube Channel⚠️❗️", url="https://www.youtube.com/channel/UCCmjxoJe_6T1ota84YH3ikg?sub_confirmation=1"
+                    "𝐆𝐢𝐫𝐥 𝐅𝐫𝐢𝐞𝐧𝐝 4", url="https://t.me/elsa_network"
                      )
                 ],
                 [
                     InlineKeyboardButton(
-                    "Mining ₿itcoin", url="http://t.me/ProBTCMinerbot?start=ref1261923198"
+                    "𝐆𝐢𝐫𝐥 𝐅𝐫𝐢𝐞𝐧𝐝 5", url="https://t.me/teluguLittleworld"
                     )
                 ]
             ]
