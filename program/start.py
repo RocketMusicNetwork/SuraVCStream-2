@@ -83,7 +83,7 @@ I put my Lover ID in the  below button.! Ask her 😂😂 **\n """,
                         url=f"https://t.me/mynameisgroot",
                     )
                 ],
-                [InlineKeyboardButton("𝐀𝐥𝐨𝐧𝐞 𝐁𝐨𝐲🥺", url=f"https://t.me/rjbr0)],
+                InlineKeyboardButton("𝐀𝐥𝐨𝐧𝐞 𝐁𝐨𝐲🥺", url=f"https://t.me/rjbr0),
                 [
                     InlineKeyboardButton("𝐆𝐅 𝐥𝐞𝐧𝐢 𝐀𝐧𝐚𝐝𝐡𝐚🥺", url=f"https://t.me/elsa_network"),
                     InlineKeyboardButton("𝐈 𝐰𝐚𝐧𝐭 𝐭𝐞𝐧 𝐆𝐟𝐬🥺", url=f"https://t.me/rjbr0"),
